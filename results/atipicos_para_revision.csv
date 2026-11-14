@@ -1,0 +1,268 @@
+id_edificacion,ciudad,tipo_edificio,numero_pisos,sistema_estructural,amenaza_sismica,cumple_norma_sismorresistente,antiguedad,potencial_estructura_metalica
+ED-000031,Medellín,Hotel,52,Sistema mixto,Intermedia,False,Moderado (11-25 años),Muy alta
+ED-000081,Cali,Oficinas,54,Acero estructural,Alta,False,Reciente (0-10 años),Alta
+ED-000091,Bucaramanga,Uso mixto,51,Concreto reforzado,Alta,False,Antiguo (26-40 años),Muy alta
+ED-000129,Cali,Uso mixto,55,Concreto reforzado,Alta,False,Antiguo (26-40 años),Alta
+ED-000196,Bucaramanga,Oficinas,54,Concreto reforzado,Alta,False,Moderado (11-25 años),Muy alta
+ED-000257,Barranquilla,Apartamentos,54,Concreto reforzado,Baja,False,Reciente (0-10 años),Alta
+ED-000430,Bogotá,Apartamentos,53,Acero estructural,Intermedia,False,Antiguo (26-40 años),Media
+ED-000432,Medellín,Apartamentos,53,Concreto reforzado,Intermedia,False,Reciente (0-10 años),Alta
+ED-000470,Medellín,Apartamentos,54,Acero estructural,Intermedia,False,Reciente (0-10 años),Media
+ED-000610,Cali,Apartamentos,51,Concreto reforzado,Alta,False,Antiguo (26-40 años),Muy alta
+ED-000644,Barranquilla,Uso mixto,55,Concreto reforzado,Baja,False,Reciente (0-10 años),Alta
+ED-000720,Bogotá,Apartamentos,52,Acero estructural,Intermedia,False,Moderado (11-25 años),Alta
+ED-000770,Bogotá,Apartamentos,53,Acero estructural,Intermedia,False,Moderado (11-25 años),Media
+ED-000781,Barranquilla,Apartamentos,55,Acero estructural,Baja,False,Antiguo (26-40 años),Media
+ED-000829,Medellín,Apartamentos,54,Concreto reforzado,Intermedia,False,Moderado (11-25 años),Alta
+ED-000944,Bucaramanga,Apartamentos,52,Concreto reforzado,Alta,False,Antiguo (26-40 años),Alta
+ED-000977,Bogotá,Comercial,52,Sistema mixto,Intermedia,False,Antiguo (26-40 años),Muy alta
+ED-000982,Bucaramanga,Apartamentos,54,Acero estructural,Alta,False,Antiguo (26-40 años),Alta
+ED-001146,Bogotá,Apartamentos,51,Sistema mixto,Intermedia,False,Moderado (11-25 años),Media
+ED-001215,Bucaramanga,Apartamentos,54,Sistema mixto,Alta,False,Moderado (11-25 años),Alta
+ED-001219,Medellín,Apartamentos,54,Sistema mixto,Intermedia,False,Reciente (0-10 años),Alta
+ED-001348,Bogotá,Apartamentos,52,Sistema mixto,Intermedia,False,Antiguo (26-40 años),Alta
+ED-001403,Medellín,Apartamentos,52,Concreto reforzado,Intermedia,False,Antiguo (26-40 años),Muy alta
+ED-001446,Bogotá,Apartamentos,55,Acero estructural,Intermedia,False,Moderado (11-25 años),Alta
+ED-001474,Bucaramanga,Oficinas,54,Sistema mixto,Alta,False,Antiguo (26-40 años),Muy alta
+ED-001496,Bogotá,Apartamentos,54,Concreto reforzado,Intermedia,False,Antiguo (26-40 años),Alta
+ED-001592,Cali,Oficinas,51,Sistema mixto,Alta,False,Moderado (11-25 años),Alta
+ED-001669,Medellín,Apartamentos,51,Concreto reforzado,Intermedia,False,Moderado (11-25 años),Muy alta
+ED-001676,Barranquilla,Apartamentos,51,Sistema mixto,Baja,False,Antiguo (26-40 años),Media
+ED-001803,Bucaramanga,Apartamentos,53,Concreto reforzado,Alta,False,Antiguo (26-40 años),Alta
+ED-001887,Bogotá,Apartamentos,53,Sistema mixto,Intermedia,False,Antiguo (26-40 años),Alta
+ED-001926,Bucaramanga,Apartamentos,53,Concreto reforzado,Alta,False,Moderado (11-25 años),Muy alta
+ED-001952,Bogotá,Apartamentos,51,Sistema mixto,Intermedia,False,Moderado (11-25 años),Alta
+ED-001957,Barranquilla,Apartamentos,53,Concreto reforzado,Baja,False,Reciente (0-10 años),Alta
+ED-001962,Bogotá,Apartamentos,53,Concreto reforzado,Intermedia,False,Antiguo (26-40 años),Alta
+ED-001999,Medellín,Apartamentos,51,Concreto reforzado,Intermedia,False,Antiguo (26-40 años),Alta
+ED-002072,Cali,Apartamentos,51,Muros de carga,Alta,False,Reciente (0-10 años),Muy alta
+ED-002179,Bucaramanga,Uso mixto,53,Concreto reforzado,Alta,False,Reciente (0-10 años),Alta
+ED-002251,Bogotá,Oficinas,51,Concreto reforzado,Intermedia,False,Antiguo (26-40 años),Muy alta
+ED-002289,Bogotá,Apartamentos,53,Sistema mixto,Intermedia,False,Antiguo (26-40 años),Alta
+ED-002324,Barranquilla,Uso mixto,52,Sistema mixto,Baja,False,Moderado (11-25 años),Alta
+ED-002517,Medellín,Oficinas,53,Acero estructural,Intermedia,False,Antiguo (26-40 años),Media
+ED-002610,Bucaramanga,Apartamentos,51,Sistema mixto,Alta,False,Antiguo (26-40 años),Alta
+ED-002855,Bucaramanga,Apartamentos,54,Concreto reforzado,Alta,False,Moderado (11-25 años),Alta
+ED-002878,Bogotá,Comercial,54,Concreto reforzado,Intermedia,False,Reciente (0-10 años),Alta
+ED-002941,Bogotá,Uso mixto,55,Concreto reforzado,Intermedia,False,Antiguo (26-40 años),Muy alta
+ED-002981,Barranquilla,Apartamentos,55,Sistema mixto,Baja,False,Antiguo (26-40 años),Media
+ED-003023,Bogotá,Uso mixto,52,Concreto reforzado,Intermedia,False,Moderado (11-25 años),Muy alta
+ED-003043,Cali,Apartamentos,55,Sistema mixto,Alta,False,Reciente (0-10 años),Alta
+ED-003050,Cali,Apartamentos,53,Acero estructural,Alta,False,Reciente (0-10 años),Media
+ED-003215,Medellín,Comercial,54,Sistema mixto,Intermedia,False,Reciente (0-10 años),Alta
+ED-003256,Cartagena,Apartamentos,51,Sistema mixto,Baja,False,Antiguo (26-40 años),Alta
+ED-003289,Cali,Apartamentos,55,Sistema mixto,Alta,False,Reciente (0-10 años),Alta
+ED-003341,Cali,Apartamentos,51,Concreto reforzado,Alta,False,Moderado (11-25 años),Alta
+ED-003465,Barranquilla,Apartamentos,53,Concreto reforzado,Baja,False,Reciente (0-10 años),Media
+ED-003466,Barranquilla,Oficinas,53,Sistema mixto,Baja,False,Antiguo (26-40 años),Alta
+ED-003602,Barranquilla,Uso mixto,52,Sistema mixto,Baja,False,Moderado (11-25 años),Alta
+ED-003641,Bogotá,Comercial,55,Sistema mixto,Intermedia,False,Moderado (11-25 años),Alta
+ED-003681,Bucaramanga,Apartamentos,52,Concreto reforzado,Alta,False,Antiguo (26-40 años),Muy alta
+ED-003686,Medellín,Uso mixto,53,Acero estructural,Intermedia,False,Moderado (11-25 años),Media
+ED-003691,Bogotá,Oficinas,54,Sistema mixto,Intermedia,False,Antiguo (26-40 años),Muy alta
+ED-003778,Medellín,Apartamentos,51,Concreto reforzado,Intermedia,False,Moderado (11-25 años),Muy alta
+ED-003830,Medellín,Apartamentos,52,Acero estructural,Intermedia,False,Moderado (11-25 años),Media
+ED-003872,Barranquilla,Apartamentos,53,Concreto reforzado,Baja,False,Reciente (0-10 años),Alta
+ED-004008,Barranquilla,Apartamentos,55,Sistema mixto,Baja,False,Antiguo (26-40 años),Alta
+ED-004141,Cartagena,Apartamentos,53,Muros de carga,Baja,False,Antiguo (26-40 años),Alta
+ED-004161,Cartagena,Uso mixto,52,Sistema mixto,Baja,False,Antiguo (26-40 años),Alta
+ED-004164,Barranquilla,Apartamentos,52,Sistema mixto,Baja,False,Moderado (11-25 años),Media
+ED-004195,Cali,Apartamentos,52,Muros de carga,Alta,False,Moderado (11-25 años),Muy alta
+ED-004253,Bogotá,Apartamentos,53,Muros de carga,Intermedia,False,Reciente (0-10 años),Alta
+ED-004254,Bucaramanga,Apartamentos,53,Concreto reforzado,Alta,False,Antiguo (26-40 años),Muy alta
+ED-004302,Barranquilla,Oficinas,54,Concreto reforzado,Baja,False,Reciente (0-10 años),Alta
+ED-004346,Cali,Apartamentos,53,Acero estructural,Alta,False,Antiguo (26-40 años),Alta
+ED-004365,Cali,Apartamentos,53,Sistema mixto,Alta,False,Antiguo (26-40 años),Muy alta
+ED-004377,Cartagena,Apartamentos,51,Sistema mixto,Baja,False,Moderado (11-25 años),Muy alta
+ED-004450,Cartagena,Apartamentos,55,Muros de carga,Baja,False,Reciente (0-10 años),Alta
+ED-004485,Medellín,Apartamentos,53,Concreto reforzado,Intermedia,False,Reciente (0-10 años),Alta
+ED-004491,Bogotá,Oficinas,53,Sistema mixto,Intermedia,False,Reciente (0-10 años),Muy alta
+ED-004521,Cali,Apartamentos,53,Muros de carga,Alta,False,Reciente (0-10 años),Alta
+ED-004546,Medellín,Hotel,54,Concreto reforzado,Intermedia,False,Antiguo (26-40 años),Alta
+ED-004675,Cali,Uso mixto,55,Concreto reforzado,Alta,False,Reciente (0-10 años),Muy alta
+ED-004710,Cali,Hotel,54,Sistema mixto,Alta,False,Antiguo (26-40 años),Muy alta
+ED-004836,Barranquilla,Apartamentos,51,Acero estructural,Baja,False,Antiguo (26-40 años),Media
+ED-004875,Cali,Apartamentos,52,Sistema mixto,Alta,False,Reciente (0-10 años),Alta
+ED-004896,Cartagena,Hotel,52,Acero estructural,Baja,False,Reciente (0-10 años),Media
+ED-004940,Barranquilla,Apartamentos,52,Concreto reforzado,Baja,False,Reciente (0-10 años),Alta
+ED-004953,Barranquilla,Oficinas,53,Muros de carga,Baja,False,Antiguo (26-40 años),Muy alta
+ED-004997,Medellín,Oficinas,51,Concreto reforzado,Intermedia,False,Moderado (11-25 años),Muy alta
+ED-005010,Bogotá,Uso mixto,51,Sistema mixto,Intermedia,False,Antiguo (26-40 años),Alta
+ED-005219,Bogotá,Oficinas,51,Sistema mixto,Intermedia,False,Antiguo (26-40 años),Alta
+ED-005239,Bogotá,Comercial,53,Concreto reforzado,Intermedia,False,Moderado (11-25 años),Muy alta
+ED-005252,Cali,Comercial,51,Sistema mixto,Alta,False,Moderado (11-25 años),Alta
+ED-005354,Barranquilla,Apartamentos,55,Sistema mixto,Baja,False,Antiguo (26-40 años),Alta
+ED-005363,Cartagena,Uso mixto,52,Concreto reforzado,Baja,False,Moderado (11-25 años),Muy alta
+ED-005393,Cartagena,Oficinas,52,Acero estructural,Baja,False,Moderado (11-25 años),Alta
+ED-005497,Bogotá,Apartamentos,53,Concreto reforzado,Intermedia,False,Moderado (11-25 años),Alta
+ED-005520,Cali,Apartamentos,52,Muros de carga,Alta,False,Antiguo (26-40 años),Muy alta
+ED-005549,Cali,Institucional,51,Sistema mixto,Alta,False,Antiguo (26-40 años),Muy alta
+ED-005550,Barranquilla,Apartamentos,55,Acero estructural,Baja,False,Reciente (0-10 años),Media
+ED-005584,Cali,Apartamentos,53,Acero estructural,Alta,False,Antiguo (26-40 años),Media
+ED-005588,Cartagena,Apartamentos,55,Sistema mixto,Baja,False,Antiguo (26-40 años),Alta
+ED-005614,Cartagena,Apartamentos,52,Sistema mixto,Baja,False,Moderado (11-25 años),Alta
+ED-005617,Bogotá,Apartamentos,51,Muros de carga,Intermedia,False,Reciente (0-10 años),Alta
+ED-005634,Cartagena,Apartamentos,54,Sistema mixto,Baja,False,Reciente (0-10 años),Media
+ED-005653,Medellín,Apartamentos,53,Muros de carga,Intermedia,False,Antiguo (26-40 años),Muy alta
+ED-005822,Barranquilla,Apartamentos,55,Concreto reforzado,Baja,False,Moderado (11-25 años),Alta
+ED-005893,Cartagena,Apartamentos,53,Muros de carga,Baja,False,Reciente (0-10 años),Alta
+ED-005922,Cartagena,Apartamentos,54,Sistema mixto,Baja,False,Antiguo (26-40 años),Alta
+ED-005995,Barranquilla,Apartamentos,54,Concreto reforzado,Baja,False,Reciente (0-10 años),Muy alta
+ED-006034,Cali,Institucional,53,Muros de carga,Alta,False,Antiguo (26-40 años),Muy alta
+ED-006056,Barranquilla,Apartamentos,54,Concreto reforzado,Baja,False,Antiguo (26-40 años),Alta
+ED-006085,Bogotá,Apartamentos,54,Concreto reforzado,Intermedia,False,Antiguo (26-40 años),Alta
+ED-006143,Bogotá,Oficinas,53,Muros de carga,Intermedia,False,Antiguo (26-40 años),Muy alta
+ED-006154,Barranquilla,Oficinas,53,Muros de carga,Baja,False,Moderado (11-25 años),Muy alta
+ED-006209,Cartagena,Apartamentos,52,Sistema mixto,Baja,False,Moderado (11-25 años),Alta
+ED-006215,Cali,Apartamentos,55,Concreto reforzado,Alta,False,Reciente (0-10 años),Muy alta
+ED-006248,Barranquilla,Oficinas,52,Concreto reforzado,Baja,False,Reciente (0-10 años),Muy alta
+ED-006255,Cali,Apartamentos,53,Muros de carga,Alta,False,Antiguo (26-40 años),Alta
+ED-006492,Cartagena,Apartamentos,51,Concreto reforzado,Baja,False,Antiguo (26-40 años),Alta
+ED-006543,Bucaramanga,Apartamentos,51,Concreto reforzado,Alta,False,Moderado (11-25 años),Alta
+ED-006610,Cali,Apartamentos,53,Acero estructural,Alta,False,Reciente (0-10 años),Media
+ED-006678,Medellín,Apartamentos,55,Sistema mixto,Intermedia,False,Reciente (0-10 años),Alta
+ED-006819,Cartagena,Uso mixto,51,Acero estructural,Baja,False,Moderado (11-25 años),Alta
+ED-006910,Cali,Uso mixto,51,Concreto reforzado,Alta,False,Antiguo (26-40 años),Muy alta
+ED-006983,Bogotá,Hotel,53,Muros de carga,Intermedia,False,Reciente (0-10 años),Alta
+ED-006999,Medellín,Apartamentos,53,Acero estructural,Intermedia,False,Reciente (0-10 años),Media
+ED-007032,Bogotá,Apartamentos,55,Sistema mixto,Intermedia,False,Antiguo (26-40 años),Alta
+ED-007080,Bucaramanga,Apartamentos,54,Concreto reforzado,Alta,False,Antiguo (26-40 años),Muy alta
+ED-007319,Cartagena,Apartamentos,54,Concreto reforzado,Baja,False,Antiguo (26-40 años),Alta
+ED-007351,Cali,Apartamentos,55,Acero estructural,Alta,False,Antiguo (26-40 años),Media
+ED-007383,Bogotá,Apartamentos,54,Concreto reforzado,Intermedia,False,Reciente (0-10 años),Alta
+ED-007634,Bogotá,Apartamentos,54,Sistema mixto,Intermedia,False,Moderado (11-25 años),Media
+ED-007664,Cali,Oficinas,55,Concreto reforzado,Alta,False,Reciente (0-10 años),Muy alta
+ED-007768,Bucaramanga,Oficinas,51,Concreto reforzado,Alta,False,Moderado (11-25 años),Muy alta
+ED-007785,Bogotá,Oficinas,53,Sistema mixto,Intermedia,False,Antiguo (26-40 años),Alta
+ED-007790,Bogotá,Hotel,55,Concreto reforzado,Intermedia,False,Reciente (0-10 años),Alta
+ED-007800,Bogotá,Uso mixto,55,Concreto reforzado,Intermedia,False,Reciente (0-10 años),Alta
+ED-007909,Bucaramanga,Apartamentos,55,Concreto reforzado,Alta,False,Reciente (0-10 años),Muy alta
+ED-007937,Cali,Apartamentos,55,Muros de carga,Alta,False,Reciente (0-10 años),Muy alta
+ED-007971,Bogotá,Oficinas,53,Sistema mixto,Intermedia,False,Antiguo (26-40 años),Muy alta
+ED-007976,Barranquilla,Apartamentos,51,Sistema mixto,Baja,False,Antiguo (26-40 años),Muy alta
+ED-008146,Cali,Apartamentos,51,Sistema mixto,Alta,False,Antiguo (26-40 años),Alta
+ED-008149,Cartagena,Uso mixto,54,Acero estructural,Baja,False,Antiguo (26-40 años),Media
+ED-008159,Cartagena,Apartamentos,52,Acero estructural,Baja,False,Reciente (0-10 años),Alta
+ED-008162,Bogotá,Apartamentos,51,Concreto reforzado,Intermedia,False,Reciente (0-10 años),Media
+ED-008298,Medellín,Hotel,52,Acero estructural,Intermedia,False,Antiguo (26-40 años),Alta
+ED-008333,Barranquilla,Oficinas,52,Sistema mixto,Baja,False,Moderado (11-25 años),Alta
+ED-008346,Cali,Hotel,52,Acero estructural,Alta,False,Antiguo (26-40 años),Media
+ED-008410,Cartagena,Apartamentos,51,Acero estructural,Baja,False,Antiguo (26-40 años),Media
+ED-008457,Cali,Apartamentos,55,Acero estructural,Alta,False,Antiguo (26-40 años),Alta
+ED-008459,Medellín,Uso mixto,54,Acero estructural,Intermedia,False,Moderado (11-25 años),Media
+ED-008736,Bucaramanga,Apartamentos,53,Concreto reforzado,Alta,False,Reciente (0-10 años),Alta
+ED-008751,Cali,Apartamentos,53,Concreto reforzado,Alta,False,Antiguo (26-40 años),Muy alta
+ED-008816,Medellín,Uso mixto,55,Muros de carga,Intermedia,False,Reciente (0-10 años),Alta
+ED-008841,Bogotá,Apartamentos,55,Concreto reforzado,Intermedia,False,Antiguo (26-40 años),Alta
+ED-008875,Barranquilla,Apartamentos,55,Concreto reforzado,Baja,False,Reciente (0-10 años),Alta
+ED-008926,Medellín,Apartamentos,55,Sistema mixto,Intermedia,False,Moderado (11-25 años),Alta
+ED-008973,Bogotá,Oficinas,54,Sistema mixto,Intermedia,False,Antiguo (26-40 años),Muy alta
+ED-009020,Bucaramanga,Uso mixto,54,Sistema mixto,Alta,False,Reciente (0-10 años),Muy alta
+ED-009061,Bogotá,Apartamentos,53,Concreto reforzado,Intermedia,False,Moderado (11-25 años),Alta
+ED-009071,Cali,Apartamentos,55,Sistema mixto,Alta,False,Reciente (0-10 años),Alta
+ED-009072,Bogotá,Apartamentos,53,Concreto reforzado,Intermedia,False,Reciente (0-10 años),Muy alta
+ED-009173,Cali,Apartamentos,52,Acero estructural,Alta,False,Moderado (11-25 años),Media
+ED-009211,Cartagena,Apartamentos,54,Sistema mixto,Baja,False,Moderado (11-25 años),Alta
+ED-009285,Barranquilla,Oficinas,53,Acero estructural,Baja,False,Reciente (0-10 años),Alta
+ED-009330,Bogotá,Apartamentos,55,Sistema mixto,Intermedia,False,Moderado (11-25 años),Alta
+ED-009353,Bogotá,Uso mixto,53,Concreto reforzado,Intermedia,False,Reciente (0-10 años),Alta
+ED-009384,Bucaramanga,Apartamentos,54,Sistema mixto,Alta,False,Reciente (0-10 años),Alta
+ED-009546,Bogotá,Apartamentos,52,Acero estructural,Intermedia,False,Antiguo (26-40 años),Alta
+ED-009561,Cartagena,Uso mixto,54,Sistema mixto,Baja,False,Antiguo (26-40 años),Alta
+ED-009582,Medellín,Apartamentos,53,Concreto reforzado,Intermedia,False,Reciente (0-10 años),Alta
+ED-009612,Cartagena,Apartamentos,52,Concreto reforzado,Baja,False,Moderado (11-25 años),Alta
+ED-009629,Medellín,Apartamentos,53,Sistema mixto,Intermedia,False,Antiguo (26-40 años),Alta
+ED-009690,Cali,Apartamentos,53,Acero estructural,Alta,False,Antiguo (26-40 años),Alta
+ED-009720,Bogotá,Apartamentos,52,Muros de carga,Intermedia,False,Antiguo (26-40 años),Muy alta
+ED-009812,Bogotá,Apartamentos,55,Concreto reforzado,Intermedia,False,Reciente (0-10 años),Alta
+ED-009856,Bucaramanga,Uso mixto,51,Sistema mixto,Alta,False,Antiguo (26-40 años),Alta
+ED-009968,Barranquilla,Apartamentos,55,Concreto reforzado,Baja,False,Reciente (0-10 años),Alta
+ED-010065,Medellín,Comercial,52,Sistema mixto,Intermedia,False,Reciente (0-10 años),Alta
+ED-010073,Bucaramanga,Oficinas,54,Muros de carga,Alta,False,Moderado (11-25 años),Muy alta
+ED-010082,Bogotá,Apartamentos,51,Concreto reforzado,Intermedia,False,Reciente (0-10 años),Alta
+ED-010085,Medellín,Uso mixto,51,Sistema mixto,Intermedia,False,Reciente (0-10 años),Alta
+ED-010108,Bucaramanga,Oficinas,53,Sistema mixto,Alta,False,Antiguo (26-40 años),Muy alta
+ED-010133,Cali,Apartamentos,54,Sistema mixto,Alta,False,Moderado (11-25 años),Muy alta
+ED-010146,Bogotá,Apartamentos,54,Concreto reforzado,Intermedia,False,Antiguo (26-40 años),Alta
+ED-010336,Barranquilla,Apartamentos,52,Sistema mixto,Baja,False,Antiguo (26-40 años),Alta
+ED-010398,Bogotá,Apartamentos,53,Concreto reforzado,Intermedia,False,Moderado (11-25 años),Muy alta
+ED-010425,Barranquilla,Apartamentos,54,Sistema mixto,Baja,False,Antiguo (26-40 años),Alta
+ED-010456,Cali,Apartamentos,55,Acero estructural,Alta,False,Antiguo (26-40 años),Media
+ED-010513,Bogotá,Oficinas,52,Muros de carga,Intermedia,False,Antiguo (26-40 años),Muy alta
+ED-010626,Bogotá,Apartamentos,52,Acero estructural,Intermedia,False,Moderado (11-25 años),Media
+ED-010663,Bogotá,Apartamentos,54,Concreto reforzado,Intermedia,False,Moderado (11-25 años),Muy alta
+ED-010842,Cali,Hotel,53,Concreto reforzado,Alta,False,Antiguo (26-40 años),Muy alta
+ED-010853,Barranquilla,Apartamentos,54,Concreto reforzado,Baja,False,Antiguo (26-40 años),Media
+ED-010939,Bogotá,Hotel,55,Concreto reforzado,Intermedia,False,Reciente (0-10 años),Muy alta
+ED-010975,Barranquilla,Apartamentos,55,Acero estructural,Baja,False,Antiguo (26-40 años),Media
+ED-010982,Bucaramanga,Oficinas,51,Acero estructural,Alta,False,Antiguo (26-40 años),Alta
+ED-011051,Cali,Oficinas,55,Sistema mixto,Alta,False,Reciente (0-10 años),Alta
+ED-011169,Cali,Apartamentos,52,Concreto reforzado,Alta,False,Moderado (11-25 años),Muy alta
+ED-011202,Cali,Oficinas,55,Acero estructural,Alta,False,Reciente (0-10 años),Alta
+ED-011329,Bucaramanga,Apartamentos,54,Concreto reforzado,Alta,False,Antiguo (26-40 años),Media
+ED-011338,Barranquilla,Oficinas,52,Concreto reforzado,Baja,False,Antiguo (26-40 años),Alta
+ED-011493,Barranquilla,Apartamentos,52,Acero estructural,Baja,False,Antiguo (26-40 años),Media
+ED-011508,Cali,Uso mixto,53,Concreto reforzado,Alta,False,Reciente (0-10 años),Alta
+ED-011521,Medellín,Apartamentos,52,Sistema mixto,Intermedia,False,Antiguo (26-40 años),Alta
+ED-011524,Bogotá,Apartamentos,55,Concreto reforzado,Intermedia,False,Moderado (11-25 años),Alta
+ED-011526,Bogotá,Apartamentos,52,Acero estructural,Intermedia,False,Reciente (0-10 años),Media
+ED-011535,Bogotá,Apartamentos,52,Sistema mixto,Intermedia,False,Reciente (0-10 años),Alta
+ED-011600,Cartagena,Hotel,51,Acero estructural,Baja,False,Antiguo (26-40 años),Media
+ED-011770,Bogotá,Apartamentos,55,Concreto reforzado,Intermedia,False,Antiguo (26-40 años),Muy alta
+ED-011824,Bogotá,Apartamentos,54,Sistema mixto,Intermedia,False,Moderado (11-25 años),Alta
+ED-011834,Cartagena,Apartamentos,53,Acero estructural,Baja,False,Antiguo (26-40 años),Media
+ED-011954,Bogotá,Apartamentos,52,Concreto reforzado,Intermedia,False,Reciente (0-10 años),Media
+ED-011987,Bogotá,Uso mixto,51,Sistema mixto,Intermedia,False,Antiguo (26-40 años),Muy alta
+ED-012003,Medellín,Uso mixto,51,Sistema mixto,Intermedia,False,Reciente (0-10 años),Alta
+ED-012050,Bogotá,Oficinas,51,Concreto reforzado,Intermedia,False,Antiguo (26-40 años),Muy alta
+ED-012054,Barranquilla,Apartamentos,55,Acero estructural,Baja,False,Moderado (11-25 años),Media
+ED-012080,Barranquilla,Uso mixto,53,Concreto reforzado,Baja,False,Antiguo (26-40 años),Alta
+ED-012093,Cali,Apartamentos,54,Muros de carga,Alta,False,Antiguo (26-40 años),Muy alta
+ED-012111,Medellín,Apartamentos,51,Acero estructural,Intermedia,False,Antiguo (26-40 años),Alta
+ED-012148,Medellín,Apartamentos,52,Concreto reforzado,Intermedia,False,Antiguo (26-40 años),Alta
+ED-012257,Medellín,Apartamentos,53,Muros de carga,Intermedia,False,Reciente (0-10 años),Alta
+ED-012275,Cartagena,Hotel,55,Concreto reforzado,Baja,False,Reciente (0-10 años),Muy alta
+ED-012354,Bucaramanga,Apartamentos,55,Concreto reforzado,Alta,False,Antiguo (26-40 años),Muy alta
+ED-012358,Medellín,Oficinas,53,Concreto reforzado,Intermedia,False,Antiguo (26-40 años),Muy alta
+ED-012460,Cali,Apartamentos,52,Sistema mixto,Alta,False,Antiguo (26-40 años),Media
+ED-012484,Bogotá,Apartamentos,52,Sistema mixto,Intermedia,False,Moderado (11-25 años),Alta
+ED-012552,Bogotá,Apartamentos,51,Concreto reforzado,Intermedia,False,Antiguo (26-40 años),Muy alta
+ED-012645,Cali,Apartamentos,55,Sistema mixto,Alta,False,Antiguo (26-40 años),Alta
+ED-012650,Cali,Apartamentos,55,Concreto reforzado,Alta,False,Reciente (0-10 años),Alta
+ED-012685,Barranquilla,Uso mixto,53,Concreto reforzado,Baja,False,Reciente (0-10 años),Muy alta
+ED-012711,Cali,Oficinas,55,Concreto reforzado,Alta,False,Antiguo (26-40 años),Muy alta
+ED-012792,Bogotá,Apartamentos,54,Acero estructural,Intermedia,False,Reciente (0-10 años),Media
+ED-012850,Medellín,Apartamentos,55,Sistema mixto,Intermedia,False,Antiguo (26-40 años),Alta
+ED-012856,Bucaramanga,Oficinas,51,Concreto reforzado,Alta,False,Reciente (0-10 años),Muy alta
+ED-012965,Cali,Apartamentos,55,Sistema mixto,Alta,False,Reciente (0-10 años),Alta
+ED-013006,Barranquilla,Hotel,55,Sistema mixto,Baja,False,Antiguo (26-40 años),Alta
+ED-013008,Bogotá,Apartamentos,55,Sistema mixto,Intermedia,False,Antiguo (26-40 años),Alta
+ED-013174,Bogotá,Apartamentos,52,Acero estructural,Intermedia,False,Moderado (11-25 años),Alta
+ED-013186,Cali,Oficinas,54,Sistema mixto,Alta,False,Reciente (0-10 años),Alta
+ED-013227,Barranquilla,Oficinas,54,Concreto reforzado,Baja,False,Antiguo (26-40 años),Muy alta
+ED-013293,Barranquilla,Apartamentos,51,Sistema mixto,Baja,False,Reciente (0-10 años),Media
+ED-013442,Medellín,Apartamentos,51,Sistema mixto,Intermedia,False,Antiguo (26-40 años),Media
+ED-013550,Barranquilla,Apartamentos,51,Concreto reforzado,Baja,False,Reciente (0-10 años),Alta
+ED-013598,Cartagena,Oficinas,54,Sistema mixto,Baja,False,Antiguo (26-40 años),Alta
+ED-013617,Barranquilla,Oficinas,51,Sistema mixto,Baja,False,Moderado (11-25 años),Alta
+ED-013685,Medellín,Apartamentos,55,Concreto reforzado,Intermedia,False,Antiguo (26-40 años),Muy alta
+ED-013709,Bogotá,Oficinas,51,Acero estructural,Intermedia,False,Reciente (0-10 años),Media
+ED-013722,Cali,Apartamentos,53,Muros de carga,Alta,False,Antiguo (26-40 años),Muy alta
+ED-013782,Medellín,Apartamentos,54,Concreto reforzado,Intermedia,False,Reciente (0-10 años),Alta
+ED-013816,Medellín,Oficinas,52,Muros de carga,Intermedia,False,Moderado (11-25 años),Alta
+ED-014039,Medellín,Apartamentos,52,Concreto reforzado,Intermedia,False,Antiguo (26-40 años),Muy alta
+ED-014050,Bogotá,Uso mixto,51,Acero estructural,Intermedia,False,Reciente (0-10 años),Media
+ED-014210,Medellín,Apartamentos,53,Concreto reforzado,Intermedia,False,Antiguo (26-40 años),Muy alta
+ED-014214,Cartagena,Uso mixto,55,Concreto reforzado,Baja,False,Reciente (0-10 años),Muy alta
+ED-014337,Barranquilla,Hotel,51,Acero estructural,Baja,False,Antiguo (26-40 años),Alta
+ED-014352,Bucaramanga,Comercial,55,Muros de carga,Alta,False,Moderado (11-25 años),Muy alta
+ED-014394,Bogotá,Apartamentos,55,Concreto reforzado,Intermedia,False,Reciente (0-10 años),Alta
+ED-014407,Barranquilla,Apartamentos,53,Sistema mixto,Baja,False,Antiguo (26-40 años),Alta
+ED-014450,Cali,Apartamentos,55,Concreto reforzado,Alta,False,Moderado (11-25 años),Muy alta
+ED-014457,Medellín,Apartamentos,53,Concreto reforzado,Intermedia,False,Moderado (11-25 años),Alta
+ED-014525,Bogotá,Apartamentos,51,Sistema mixto,Intermedia,False,Antiguo (26-40 años),Alta
+ED-014599,Bogotá,Apartamentos,55,Concreto reforzado,Intermedia,False,Moderado (11-25 años),Muy alta
+ED-014622,Medellín,Apartamentos,54,Concreto reforzado,Intermedia,False,Moderado (11-25 años),Alta
+ED-014662,Barranquilla,Oficinas,55,Sistema mixto,Baja,False,Antiguo (26-40 años),Alta
+ED-014842,Cartagena,Institucional,53,Concreto reforzado,Baja,False,Reciente (0-10 años),Alta
+ED-014881,Cali,Hotel,54,Concreto reforzado,Alta,False,Reciente (0-10 años),Muy alta

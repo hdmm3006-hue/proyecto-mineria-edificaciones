@@ -1,0 +1,45 @@
+{
+  "ciudad": [
+    "Barranquilla",
+    "Bogotá",
+    "Bucaramanga",
+    "Cali",
+    "Cartagena",
+    "Medellín"
+  ],
+  "tipo_edificio": [
+    "Apartamentos",
+    "Comercial",
+    "Hotel",
+    "Institucional",
+    "Oficinas",
+    "Uso mixto"
+  ],
+  "sistema_estructural": [
+    "Acero estructural",
+    "Concreto reforzado",
+    "Muros de carga",
+    "Sistema mixto"
+  ],
+  "amenaza_sismica": [
+    "Alta",
+    "Baja",
+    "Intermedia"
+  ],
+  "cumple_norma_sismorresistente": [
+    "No",
+    "Sí"
+  ],
+  "antiguedad": [
+    "Antiguo (26-40 años)",
+    "Moderado (11-25 años)",
+    "Muy antiguo (>40 años)",
+    "Reciente (0-10 años)"
+  ],
+  "potencial_estructura_metalica": [
+    "alta",
+    "baja",
+    "media",
+    "muy_alta"
+  ]
+}

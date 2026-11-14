@@ -1,0 +1,16 @@
+{
+  "external_total": 2422631,
+  "external_valid_positive_integer_floor_records": 2406292,
+  "external_missing_or_invalid_floor_records": 16339,
+  "external_mean_floors_valid": 2.107773703274582,
+  "constructed_bogota_n": 4003,
+  "constructed_bogota_mean_floors": 19.58256307769173,
+  "source_sha256": "eeebc67f17f6f05907542b134286f5a791ba090090b61e75922dc15babce13e9",
+  "retrieved_at_utc": "2026-11-14T14:35:01.029809+00:00"
+}
+       catastro_count  constructed_count  catastro_pct  constructed_pct
+1–4           2336920                  0        97.117            0.000
+5–10            63533               1027         2.640           25.656
+11–20            5280               1395         0.219           34.849
+21–50             556               1511         0.023           37.747
+51+                 3                 70         0.000            1.749

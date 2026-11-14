@@ -1,0 +1,32 @@
+{
+  "rows": 15010,
+  "columns": 9,
+  "nulls": 0,
+  "duplicates": 0,
+  "outliers_iqr": 267,
+  "iqr_limits": [
+    -14.0,
+    50.0
+  ],
+  "sha256_input": "38611ce28742c936dca9202abafde46265b579171e7e2651f0528310a47050ea",
+  "best_k": 2,
+  "silhouette": 0.2498645496432645,
+  "stability": [
+    {
+      "seed": 7,
+      "ARI": 1.0
+    },
+    {
+      "seed": 21,
+      "ARI": 1.0
+    },
+    {
+      "seed": 84,
+      "ARI": 1.0
+    }
+  ],
+  "clipped_ari": 1.0,
+  "half_floor_weight_ari": 0.9220755442966404,
+  "pca_variance": 0.5009073269087922,
+  "compliance_pct": 6.182544970019987
+}

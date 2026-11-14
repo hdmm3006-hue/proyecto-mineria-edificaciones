@@ -1,0 +1,76 @@
+Dimensiones originales: (15010, 9)
+{
+  "rows": 15010,
+  "columns": 9,
+  "nulls": 0,
+  "duplicates": 0,
+  "outliers_iqr": 267,
+  "iqr_limits": [
+    -14.0,
+    50.0
+  ],
+  "sha256_input": "38611ce28742c936dca9202abafde46265b579171e7e2651f0528310a47050ea"
+}
+count    15010.000000
+mean        19.564424
+std         11.126251
+min          5.000000
+25%         10.000000
+50%         18.000000
+75%         26.000000
+max         55.000000
+                 n  mean_floors  compliance
+ciudad                                     
+Barranquilla  2101      19.4003      0.2461
+Bogotá        4003      19.5826      0.0007
+Bucaramanga   1900      19.8089      0.0000
+Cali          2503      19.7783      0.0000
+Cartagena     1800      19.2189      0.2267
+Medellín      2703      19.5253      0.0000
+Asociaciones más fuertes: ciudad                         amenaza_sismica                  0.999900
+                               cumple_norma_sismorresistente    0.431427
+amenaza_sismica                cumple_norma_sismorresistente    0.431171
+sistema_estructural            potencial_estructura_metalica    0.227106
+potencial_estructura_metalica  cumple_norma_sismorresistente    0.220008
+tipo_edificio                  potencial_estructura_metalica    0.184251
+sistema_estructural            cumple_norma_sismorresistente    0.157631
+antiguedad                     cumple_norma_sismorresistente    0.150687
+Matriz para clustering: (15010, 19)
+ k    inertia  silhouette_sample_2500  davies_bouldin  calinski_harabasz  min_cluster
+ 2 25814.6043                  0.2499          1.5091          5917.0948         5117
+ 3 23142.1612                  0.1567          1.9365          4166.4785         2023
+ 4 21688.9285                  0.1212          2.2022          3298.7183         1819
+ 5 20664.1783                  0.1165          2.3820          2782.5818         1846
+ 6 19478.4623                  0.1369          2.1955          2544.0840         1675
+ 7 18937.7155                  0.1270          2.2146          2251.8603          672
+ 8 18171.7198                  0.1352          2.0776          2101.7348          651
+k seleccionado por máxima silueta en la misma muestra: 2
+Estabilidad: [{'seed': 7, 'ARI': 1.0}, {'seed': 21, 'ARI': 1.0}, {'seed': 84, 'ARI': 1.0}]
+ARI recorte IQR: 1.0 ARI peso pisos 0.5: 0.9220755442966404
+            n  mean_floors  median_floors  compliance_pct  share_pct tipo_edificio_mode sistema_estructural_mode       antiguedad_mode amenaza_sismica_mode ciudad_mode potencial_estructura_metalica_mode
+cluster                                                                                                                                                                                                   
+0        9893       13.003           13.0            6.51     65.909       Apartamentos       Concreto reforzado  Antiguo (26-40 años)           Intermedia      Bogotá                              Media
+1        5117       32.251           29.0            5.55     34.091       Apartamentos       Concreto reforzado  Antiguo (26-40 años)           Intermedia      Bogotá                               Alta
+Validación final: registros conservados y asignación completa.
+{
+  "k_fixed_to_baseline": 2,
+  "ari_vs_baseline": 1.0,
+  "silhouette_without_compliance": 0.25446301296040885,
+  "note": "Sensitivity at fixed k; not external validation of compliance or a new k search."
+}
+{
+  "external_total": 2422631,
+  "external_valid_positive_integer_floor_records": 2406292,
+  "external_missing_or_invalid_floor_records": 16339,
+  "external_mean_floors_valid": 2.107773703274582,
+  "constructed_bogota_n": 4003,
+  "constructed_bogota_mean_floors": 19.58256307769173,
+  "source_sha256": "eeebc67f17f6f05907542b134286f5a791ba090090b61e75922dc15babce13e9",
+  "retrieved_at_utc": "2026-11-14T14:35:01.029809+00:00"
+}
+       catastro_count  constructed_count  catastro_pct  constructed_pct
+1–4           2336920                  0        97.117            0.000
+5–10            63533               1027         2.640           25.656
+11–20            5280               1395         0.219           34.849
+21–50             556               1511         0.023           37.747
+51+                 3                 70         0.000            1.749

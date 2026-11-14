@@ -1,0 +1,3 @@
+cluster,n,mean_floors,median_floors,compliance_pct,share_pct,tipo_edificio_mode,sistema_estructural_mode,antiguedad_mode,amenaza_sismica_mode,ciudad_mode,potencial_estructura_metalica_mode
+0,9893,13.002527039320732,13.0,6.509653290205196,65.90939373750832,Apartamentos,Concreto reforzado,Antiguo (26-40 años),Intermedia,Bogotá,Media
+1,5117,32.25092827828806,29.0,5.550127027555208,34.090606262491676,Apartamentos,Concreto reforzado,Antiguo (26-40 años),Intermedia,Bogotá,Alta

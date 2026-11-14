@@ -1,0 +1,18 @@
+{
+  "source": "Unidad Administrativa Especial de Catastro Distrital, Construcción Bogotá",
+  "url": "https://sig.catastrobogota.gov.co/arcgis/rest/services/catastro/construccion/MapServer/0/query",
+  "parameters": {
+    "where": "1=1",
+    "groupByFieldsForStatistics": "CONNPISOS",
+    "outStatistics": "[{\"statisticType\": \"count\", \"onStatisticField\": \"OBJECTID\", \"outStatisticFieldName\": \"n\"}]",
+    "orderByFields": "CONNPISOS ASC",
+    "returnGeometry": "false",
+    "f": "json"
+  },
+  "retrieved_at_utc": "2026-11-14T14:35:01.029809+00:00",
+  "http_status": 200,
+  "sha256": "eeebc67f17f6f05907542b134286f5a791ba090090b61e75922dc15babce13e9",
+  "unit": "construction feature in cadastral layer; not necessarily one independent building",
+  "scope": "all records returned as grouped counts by floor count",
+  "license_note": "Official public service; cite owner. No open license invented."
+}

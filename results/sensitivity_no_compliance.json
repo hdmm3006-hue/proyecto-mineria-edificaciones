@@ -1,0 +1,6 @@
+{
+  "k_fixed_to_baseline": 2,
+  "ari_vs_baseline": 1.0,
+  "silhouette_without_compliance": 0.25446301296040885,
+  "note": "Sensitivity at fixed k; not external validation of compliance or a new k search."
+}
