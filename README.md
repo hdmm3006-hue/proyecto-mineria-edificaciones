@@ -48,12 +48,9 @@ pdflatex -interaction=nonstopmode Informe_IEEE.tex
 IEEEtran.cls se incluye con su aviso de licencia original. El PDF está revisado visualmente. El texto del reporte presenta los resultados de la ejecución entregada; no se recalcula automáticamente al compilar LaTeX.
 
 ## Alcance de los datos
-La base de 15.010 registros fue construida por el autor. No se declara inventario representativo ni seguridad estructural comprobada. El consumo oficial nuevo está documentado en FUENTES_Y_TRAZABILIDAD.md y no demuestra retrospectivamente el origen del CSV propio.
+La base de 15.010 registros fue construida . No se declara inventario representativo ni seguridad estructural comprobada. El consumo oficial nuevo está documentado en FUENTES_Y_TRAZABILIDAD.md y no demuestra retrospectivamente el origen del CSV propio.
 Resultados: k=2, silueta muestral 0,2499; grupos de 9.893 y 5.117 registros, principalmente diferenciados por pisos. Al retirar cumplimiento del ajuste, ARI=1 respecto a la partición original. El contraste catastral es independiente y usa unidades y cobertura distintas.
 
-## Publicación y entrega
-1. Usar el repositorio oficial del curso. Subir todo el contenido de esta carpeta y verificar que el docente tenga acceso. El ZIP no sustituye el repositorio solicitado.
-2. Adjuntar report/Informe_IEEE.pdf y el enlace del repositorio en el campus.
 3. Verificar los archivos abriéndolos desde el repositorio y confirmar el envío del campus.
 No se ha publicado ni enviado desde esta sesión. No se asigna una licencia abierta al CSV propio o a terceros sin comprobar permisos.
 El avance tiene fecha límite 14/11/2026 a las 23:59 según el documento suministrado; el reporte final del 26/11 exige inglés. Esta entrega cubre los lineamientos recibidos y no presupone otros requisitos finales no compartidos.
