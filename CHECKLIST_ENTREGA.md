@@ -20,6 +20,3 @@ Autor: Henry David Muñoz Molina. Alcance: lineamientos del avance entregados po
 | Cloud | No cursada | No aplica |
 | Subida a GitHub/GitLab oficial | Archivos e instrucciones preparados | Requiere URL del repositorio y acceso |
 | Envío al campus | PDF y ZIP preparados | No enviado |
-
-## Alcance de la afirmación de cumplimiento
-Los componentes técnicos solicitados están desarrollados y documentados. No se afirma que la entrega institucional ya haya ocurrido ni se garantiza una calificación. La base propia se analiza como conjunto construido: su trazabilidad histórica no está verificada, y sus resultados no se generalizan a edificios reales. La consulta oficial nueva tiene trazabilidad completa y no se usa para atribuir retroactivamente un origen a la base propia. Las restricciones se presentan como limitaciones metodológicas, no se ocultan ni se completan con datos inventados.
